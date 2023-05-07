@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Olá, meu nome é João, tenho 21 anos!;<br><br>🏡 Moro no Brasil - Espirito Santo!;<br>🎓 Atualmente estou graduando em Sistemas de Informação pelo IFES - Instituto Federal do Espírito Santo<br>💻 Estagiário de desenvolvimento web .
+👋Olá, meu nome é João, tenho 21 anos!;<br>🏡 Moro no Brasil - Espirito Santo!;<br>🎓 Atualmente estou graduando em Sistemas de Informação pelo IFES - Instituto Federal do Espírito Santo<br>💻 Estagiário de desenvolvimento web utilizando as tecnologias: HTML, CSS, JS, PHP E WORDPRESS.
 
 
 ## 🌐 Socials:
